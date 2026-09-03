@@ -1,4 +1,4 @@
-# arnacacommandcenter
+# arcanacommandcenter
 Honestly, I’m a bit addicted to Magic: The Gathering — and probably just as addicted to Figma.
 
 I wanted to practice my skills with Figma Make by building something around one of my own interests, instead of creating yet another random study project. That’s how Arcana came to life.
